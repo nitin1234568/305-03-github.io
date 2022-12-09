@@ -66,3 +66,15 @@
             outline: none;
         }
         
+        .child2
+
+        {  color:rgb(244, 242, 242);
+          
+            width:150px;
+            border-radius: 10px;
+            height: 5px;
+            justify-content: center;
+            font-size: xx-large;
+            
+           
+        }
